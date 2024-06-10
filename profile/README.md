@@ -1,4 +1,4 @@
-# Hei på dei 👋
+# Hei på deg 👋
 Hyggelig at du tar turen innom Github-profilen vår!
 Vil du vite mer om Kodio? Send oss en e-post på hei@kodio.no så tar vi kontakt.  
   
